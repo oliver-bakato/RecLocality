@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecLocality</string>
+    <string name="save">Salvar localização</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="deletar">Deletar</string>
+    <string name="Localizador">Localizador</string>
+    <string name="Lista">Lista</string>
+    <string name="excluir">Excluir</string>
+</resources>
